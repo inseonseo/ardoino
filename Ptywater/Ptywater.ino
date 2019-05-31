@@ -8,8 +8,8 @@ String s = "";
 String now = "";
 String pubDate = "";
 
-const char* ssid = "LG Q7_2795";
-const char* password ="seon1az7h";
+const char* ssid = "";
+const char* password ="";
 const char* host = "www.kma.go.kr";
 
 void setup() {
